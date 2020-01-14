@@ -1,3 +1,4 @@
+## 크롤링하기
 import numpy as np
 import pandas as pd
 import requests
@@ -37,3 +38,4 @@ for i in range(892):
     lotto.append(lotto_num)
 
 lotto.head()
+
